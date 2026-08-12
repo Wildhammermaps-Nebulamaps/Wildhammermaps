@@ -1,0 +1,12 @@
+{
+  "id": "dwarven-throne-hall",
+  "title": "Wildhammer Maps: Dwarven Throne Hall",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "manifest": "https://githubusercontent.com",
+  "download": "https://www.dropbox.com/scl/fi/gum9wzn9unwnayh94nsn3/module.zip?rlkey=umkl0x1ltum5xc6xhyf34iqtk&st=j7n2apr9&dl=1"
+}
