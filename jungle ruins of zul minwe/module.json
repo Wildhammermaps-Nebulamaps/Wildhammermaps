@@ -1,1 +1,20 @@
-
+{
+  "id": "jungle-ruins-of-zul-minwe",
+  "title": "Wildhammer Maps: Jungle Ruins of Zul Minwe",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "manifest": "raw.githubusercontent.com/Wildhammermaps-Nebulamaps/Wildhammermaps/main/dwarven-throne-hall/module.json",
+  "download": "https://www.dropbox.com/scl/fi/exxjza0y5tyd4wukoobd1/Jungle-ruins-of-zul-minwe.zip?rlkey=2xw1r418qtwz643jis27b9d90&st=1ukg9gxw&dl=1",
+  "packs": [
+    {
+      "name": "dwarven-throne-hall-scenes",
+      "label": "Dwarven Throne Hall",
+      "path": "packs",
+      "type": "Scene"
+    }
+  ]
+}
