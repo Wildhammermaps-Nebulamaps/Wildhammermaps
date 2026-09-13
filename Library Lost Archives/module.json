@@ -7,12 +7,12 @@
     "verified": "13",
     "maximum": "13"
   },
-  "manifest": "raw.githubusercontent.com/Wildhammermaps-Nebulamaps/Wildhammermaps/main/dwarven-throne-hall/module.json",
+  "manifest": "https://raw.githubusercontent.com/Wildhammermaps-Nebulamaps/Wildhammermaps/refs/heads/main/Library%20Lost%20Archives/module.json",
   "download": "https://www.dropbox.com/scl/fi/gwxbfn6gssu05mokhc7by/Library-lost-Archives.zip?rlkey=v4ws31zdbdffc3e0ky187tiza&st=aksxorf1&dl=1",
   "packs": [
     {
-      "name": "dwarven-throne-hall-scenes",
-      "label": "Dwarven Throne Hall",
+      "name": "library-lost-archives-scenes",
+      "label": "Library Lost Archives",
       "path": "packs",
       "type": "Scene"
     }
