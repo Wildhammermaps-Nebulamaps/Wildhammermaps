@@ -1,1 +1,12 @@
-
+{
+  "id": "library-lost-archives", 
+  "title": "Library Lost Archives)",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "manifest": "https://githubusercontent.com",
+  "download": "https://www.dropbox.com/scl/fi/gwxbfn6gssu05mokhc7by/library-lost-archives.zip?rlkey=v4ws31zdbdffc3e0ky187tiza&st=4r3mahrt&dl=1"
+}
