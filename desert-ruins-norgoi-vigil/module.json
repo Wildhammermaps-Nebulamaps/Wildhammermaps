@@ -1,1 +1,20 @@
-
+{
+  "id": "desert-ruins-norgoi-vigil",
+  "title": "Desert Ruins Norgoi Vigil",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "manifest": "raw.githubusercontent.com",
+  "download": "https://www.dropbox.com/scl/fi/zucq176said26i5wbq1sl/desert-ruins-norgoi-vigil.zip?rlkey=7ecaiu2wx5qa0gf966ngda05s&st=18jfeq2y&dl=1",
+  "packs": [
+    {
+      "name": "desert-ruins-norgoi-vigil",
+      "label": "Desert Ruins Norgoi Vigil",
+      "path": "packs",
+      "type": "Scene"
+    }
+  ]
+}
