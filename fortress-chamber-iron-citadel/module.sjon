@@ -1,1 +1,20 @@
-
+{
+  "id": "fortress-chamber-iron-citadel",
+  "title": "Fortress Chamber Iron Citadel",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "manifest": "https://raw.githubusercontent.com",
+  "download": "https://www.dropbox.com/scl/fi/6fad7vajs686dt8ji6obm/Fortress-Chamber-Iron-Citadel.zip?rlkey=lm1mm3adxyuewxajtsg0fs3n2&st=d1ab72ni&dl=1",
+  "packs": [
+    {
+      "name": "fortress-chamber-iron-citadel",
+      "label": "Fortress Chamber Iron Citadel",
+      "path": "packs",
+      "type": "Scene"
+    }
+  ]
+}
