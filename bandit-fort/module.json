@@ -7,7 +7,7 @@
     "verified": "13",
     "maximum": "13"
   },
-  "manifest": "https://raw.githubusercontent.com",
+  "manifest": "https://raw.githubusercontent.com/Wildhammermaps-Nebulamaps/Wildhammermaps/refs/heads/main/bandit-fort/module.json",
   "download": "https://www.dropbox.com/scl/fi/jn8jvhe81nky8jbyzbv6n/bandit-fort.zip?rlkey=u69ok6v177lmtegmgemjo54i6&st=w5ct1ili&dl=1",
   "packs": [
     {
