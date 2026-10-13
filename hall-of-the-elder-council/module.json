@@ -1,1 +1,20 @@
-
+{
+  "id": "hall-of-the-elder-council",
+  "title": "Hall of the Elder Council",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "manifest": "https://raw.githubusercontent.com",
+  "download": "https://www.dropbox.com/scl/fi/w23wrnwi0dch9siun53pv/hall-of-the-elder-council.zip?rlkey=b1pebkggbwawi0xajv6498390&st=euypi8t7&dl=1",
+  "packs": [
+    {
+      "name": "hall-of-the-elder-council",
+      "label": "Hall of the Elder Council",
+      "path": "packs",
+      "type": "Scene"
+    }
+  ]
+}
